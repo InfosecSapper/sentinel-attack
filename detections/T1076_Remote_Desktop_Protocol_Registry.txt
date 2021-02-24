@@ -1,4 +1,4 @@
-// Name: Remote Desktop Protocol - Process
+// Name: Remote Desktop Protocol - Registry
 // Description: Checks for execution of MITRE ATT&CK T1076
 //
 // Severity: High
